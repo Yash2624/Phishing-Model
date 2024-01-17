@@ -1,0 +1,292 @@
+body {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+    font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+    background-image: linear-gradient(to left,white, #D3D8E8, pink);
+}
+
+#heading{
+    font-style: italic;
+    font-size:xx-large;
+    color: #d962a8;
+
+
+}
+#head{
+ 
+    width: -15cm;
+    height: 633,
+    
+
+}
+
+#header_wrapper {
+    width: 100%;
+    min-width: 980px;
+    background-image: linear-gradient(to left,white, #D3D8E8, pink);
+}
+
+#header {
+    font-family: helvetica, arial, sans-serif;
+    width: 20px;
+    margin:100px auto;
+    padding: 0px;
+    height: 85px;
+    margin-left: 30.0px;
+    margin-bottom: -100.0px;
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 25px;
+    font-style: normal;
+    box-sizing: 50px;
+    color: #585151;
+
+    
+}
+he{
+   position: relative;
+   left: -5cm;
+}
+#lb{
+    width: 10px;
+    margin-top: 150px;
+    margin-left: -30cm;
+    margin-bottom:-900px;
+    margin-right: -50px;
+}
+#loginb{
+    width: 100px;    
+    margin-right: 150.0px;
+    margin-bottom: 300.0px;
+    color: #d962a8;
+    background: linear-gradient(#d962a8, #d9e1d6);
+    box-shadow: inset 0 1px 1px #d962a8;
+    border-color: #d962ac;
+    border: 1px solid;
+    border-radius: 5px;
+    display: inline-block;
+    border-radius: 5px;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    
+}
+    #header li {
+        list-style-type: none;
+        float: left;
+        text-align: left;
+        color: rgb(3, 0, 0);
+    }
+
+    #header #sitename {
+        margin-top: 25px;
+    }
+
+        #header #sitename a {
+            color: white;
+            text-decoration: none;
+            font-size: 30px;
+            font-weight: 900;
+        }
+
+    #header form {
+        margin-top: 15px;
+        float: right;
+    }
+
+        #header form li {
+            font-size: 13px;
+            margin-left: 15px;
+        }
+
+            #header form li a {
+                color: #A9BCF5;
+                text-decoration: none;
+            }
+
+        #header form input[type="text"] {
+            margin-top: 3px;
+            margin-bottom: 3px;
+            width: 150px;
+            border: 1px solid #ff00c8;
+            height: 25px;
+            padding-left: 3px;
+        }
+
+        #header form input[type="password"] {
+            margin-top: 3px;
+            margin-bottom: 3px;
+            width: 150px;
+            border: 1px solid #ff00c8;
+            height: 25px;
+            padding-left: 3px;
+        }
+
+        #header form input[type="submit"] {
+            height: 50px;
+            width: 100px;
+            margin-left: 950px;
+            margin-bottom: -150px;
+            background-color: #8a0858;
+            color: white;
+            border: 1px solid #8a0858;
+        }
+
+#wrapper {
+    margin-left: 1000px ;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 0px;
+    text-align: center;
+    width: 500px;
+}
+
+    #wrapper div {
+        float: left;
+        font-family: helvetica, arial, sans-serif;
+    }
+
+    #wrapper #div1 {
+        margin-top: 30px;
+        width: 590px;
+        text-align: left;
+    }
+
+        #wrapper #div1 p {
+            font-size: 20px;
+            font-family: arial;
+            font-weight: bold;
+            margin: 0px;
+            color: #ff00c8;
+        }
+
+    #wrapper #div2 {
+        margin-top: 10px;
+        width: -390px;
+        text-align: left;
+    }
+
+        #wrapper #div2 h1 {
+            margin: 0px;
+            font-size: 37px;
+            color: #2E2E2E;
+        }
+
+        #wrapper #div2 p {
+            font-size: 18px;
+            color: #2E2E2E;
+        }
+
+        #wrapper #div2 li {
+            list-style-type: none;
+            margin-top: 10px;
+        }
+
+            #wrapper #div2 li #firstname {
+                width: 49%;
+            }
+
+            #wrapper #div2 li #surname {
+                margin-left: 2%;
+                width: 49%;
+            }
+
+            #wrapper #div2 li input[type="text"] {
+                width: 100%;
+                height: 40px;
+                border-radius: 5px;
+                padding-left: 10px;
+                font-size: 18px;
+                border: 1px solid #BDBDBD;
+            }
+
+            #wrapper #div2 li input[type="password"] {
+                width: 100%;
+                height: 40px;
+                border-radius: 5px;
+                padding-left: 10px;
+                font-size: 18px;
+                border: 1px solid #BDBDBD;
+            }
+
+            #wrapper #div2 li select {
+                padding: 4px;
+                float: left;
+            }
+
+            #wrapper #div2 li a {
+                margin-left: 10px;
+                width: 150px;
+                color: hwb(324 31% 19%);
+                text-decoration: none;
+                font-size: 11px;
+                display: inline-block;
+                vertical-align: middle;
+                line-height: 15px;
+            }
+
+                #wrapper #div2 li a:hover {
+                    text-decoration: underline;
+                }
+
+        #wrapper #div2 li {
+            color: #2E2E2E;
+            font-size: 18px;
+        }
+
+        #wrapper #div2 #terms {
+            color: #424242;
+            font-size: 11px;
+        }
+
+            #wrapper #div2 #terms a {
+                display: inline;
+                margin: 0px;
+            }
+
+        #wrapper #div2 li input[type="submit"] {
+            width: 205px;
+            height: 45px;
+            text-align: center;
+            font-size: 19px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            font-family: 'Freight Sans Bold', helvetica, arial, sans-serif !important;
+            font-weight: bold !important;
+            background: linear-gradient(#d962a8, #d9e1d6);
+            background-color: #d962a8;
+            box-shadow: inset 0 1px 1px #d962a8;
+            border-color: #d962ac;
+            border: 1px solid;
+            border-radius: 5px;
+            color: #140d0d;
+            cursor: pointer;
+            display: inline-block;
+            position: relative;
+            text-shadow: 0 1px 2px rgba(0,0,0,.5);
+        }
+
+        #wrapper #div2 #create_page {
+            color: #424242;
+            font-size: 13px;
+            font-weight: bold;
+        }
+
+            #wrapper #div2 #create_page a {
+                display: inline;
+                margin: 0px;
+                font-size: 13px;
+            }
+
+#footer_wrapper {
+    width: 100%;
+    clear: both;
+    float: left;
+    margin-top: 30px;
+    min-width: 995px;
+background-image: linear-gradient(to left,white, #D3D8E8, pink);
+    text-align: left;
+}
+
